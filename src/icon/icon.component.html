@@ -1,1 +1,8 @@
-<p class="text-white">icon world!</p>
+<div [ngSwitch]="iconName">
+	<div *ngSwitchCase="'empty'">
+		<fa-icon [icon]="faPen" class="icon"></fa-icon>
+	</div>
+	<div *ngSwitchCase="'cross'">
+		<fa-icon [icon]="faTimes" class="icon"></fa-icon>
+	</div>
+</div>
