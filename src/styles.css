@@ -12,6 +12,5 @@
 
 body {
   position: relative;
-  background-image: url(./assets/bgc.jpg);
+  background-image: url("https://cdn.jsdelivr.net/gh/Paramaraj12/angular-game-tic-tac-toe@master/src/app/assets/bgc.jpg");
 }
-
