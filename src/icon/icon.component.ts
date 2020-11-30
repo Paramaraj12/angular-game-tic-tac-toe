@@ -8,7 +8,7 @@ import { faCircle } from "@fortawesome/free-regular-svg-icons";
 })
 export class IconComponent {
   @Input() iconName: string;
-
+  //variable name=properties for module
   faPen = faPen;
   faTimes = faTimes;
   faCircle = faCircle;
