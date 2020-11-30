@@ -6,10 +6,10 @@ import { IconComponent } from "../icon/icon.component";
 
 import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
 //font-awesome
-
+import {} from "@fortawesome/angular-fontawesome";
 //toaster
-
 import { ToastrModule } from "ngx-toastr";
+
 @NgModule({
   imports: [
     BrowserModule,
