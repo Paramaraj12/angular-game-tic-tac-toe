@@ -1,5 +1,5 @@
 {
-  "name": "angular",
+  "name": "angular-game-tic-tac-toe",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
@@ -51,5 +51,7 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
     "typescript": "~3.1.1"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
